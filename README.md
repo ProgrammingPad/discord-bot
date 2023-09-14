@@ -28,6 +28,6 @@
 <img src="https://user-images.githubusercontent.com/65284517/120176701-3a24c980-c225-11eb-9617-cd79ee77e922.PNG" height=520px width = 820px/>
 
 
-<img src="https://user-images.githubusercontent.com/65284517/120177133-b61f1180-c225-11eb-8fe2-6397730089c1.PNG" height=420px width = 820px/>
+
 
 [Add bot to your server](https://discord.com/api/oauth2/authorize?client_id=812696302055850075&permissions=0&scope=bot) for more
