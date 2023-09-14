@@ -11,7 +11,6 @@
 4. It can fetch some useful articles from GOOGLE.
 5. It can delete messages in bulk.
 6. It can set a link for the chat.
-7. It can show you the list of upcoming competitive coding contests. 
 
 [Add bot to your server](https://discord.com/api/oauth2/authorize?client_id=812696302055850075&permissions=0&scope=bot)
 
@@ -28,10 +27,7 @@
 #### Bot will guide you if you make errors
 <img src="https://user-images.githubusercontent.com/65284517/120176701-3a24c980-c225-11eb-9617-cd79ee77e922.PNG" height=520px width = 820px/>
 
-#### Fetch Programming Contest List
-<img src="https://user-images.githubusercontent.com/65284517/120177014-8cfe8100-c225-11eb-8749-a12ab95756b5.PNG" height=580px width = 820px/>
 
-#### Fetch Specific Lists
 <img src="https://user-images.githubusercontent.com/65284517/120177133-b61f1180-c225-11eb-8fe2-6397730089c1.PNG" height=420px width = 820px/>
 
 [Add bot to your server](https://discord.com/api/oauth2/authorize?client_id=812696302055850075&permissions=0&scope=bot) for more
